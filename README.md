@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vanimus
-- 👀 I’m interested in all things code. I believe programmers are like surgeons of the IT world!
+- 👀 I’m interested in all things code.
 - 🌱 I’m currently learning how to become a full-stack Web Developer
 - 💞️ I’m looking to collaborate with anyone, I'll be greatfull for all the help I could get. 
 - 📫 How to reach me @Vanimus
