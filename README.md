@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vanimus
+- 👋 Hi, I’m @Arne'
 - 👀 I’m interested in all things code.
 - 🌱 I’m currently learning how to become a full-stack Web Developer
 - 💞️ I’m looking to collaborate with anyone, I'll be greatfull for all the help I could get. 
